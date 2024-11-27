@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="" />
+    <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecuaciones_lineales.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecuaciones_lineales.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ecuaciones_cuadráticas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ecuaciones_lineales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matia/OneDrive/Desktop/Modelado y Simulación/algoritmosSegundoparcial&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ecuaciones_cuadráticas.executor": "Run",
+    "Python.ecuaciones_lineales.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/home/matiascaliz/Escritorio/algoritmos-modelado-simulacion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ecuaciones_lineales" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algoritmosSegundoparcial" />
@@ -95,6 +101,7 @@
       <workItem from="1732393886168" duration="2791000" />
       <workItem from="1732396796457" duration="194000" />
       <workItem from="1732489116914" duration="2000" />
+      <workItem from="1732714986913" duration="1403000" />
     </task>
     <servers />
   </component>
@@ -105,5 +112,6 @@
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732716123011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
