@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecuaciones_lineales.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecuaciones_lineales.py" afterDir="false" />
     </list>
@@ -101,7 +99,7 @@
       <workItem from="1732393886168" duration="2791000" />
       <workItem from="1732396796457" duration="194000" />
       <workItem from="1732489116914" duration="2000" />
-      <workItem from="1732714986913" duration="1403000" />
+      <workItem from="1732714986913" duration="2019000" />
     </task>
     <servers />
   </component>
@@ -112,6 +110,6 @@
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732716123011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732716893127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
