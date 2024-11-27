@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bifurcaciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_bifurcations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/non_linear_bifurcations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bifurcaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/bifurcations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecuaciones_cuadráticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecuaciones_lineales.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,9 @@
     "Python.bifurcaciones.executor": "Run",
     "Python.ecuaciones_cuadráticas.executor": "Run",
     "Python.ecuaciones_lineales.executor": "Run",
+    "Python.ecuaciones_lineales_bifurcaciones.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.non_linear_bifurcations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -53,7 +59,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="ecuaciones_lineales" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="linear_systems" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algoritmosSegundoparcial" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +73,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ecuaciones_lineales.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\linear_systems.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,9 +117,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732724458219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$bifurcaciones.coverage" NAME="bifurcaciones Coverage Results" MODIFIED="1732726274113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales_bifurcaciones.coverage" NAME="ecuaciones_lineales_bifurcaciones Coverage Results" MODIFIED="1732727364640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732725731301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$non_linear_bifurcations.coverage" NAME="non_linear_bifurcations Coverage Results" MODIFIED="1732727817466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
