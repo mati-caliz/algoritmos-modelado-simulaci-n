@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/linear_bifurcations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/non_linear_bifurcations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bifurcaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/bifurcations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecuaciones_cuadráticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecuaciones_lineales.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_bifurcations.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems/linear_bifurcations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems/linear_systems_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non_linear_bifurcations.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems/non_linear_bifurcations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non_linear_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems/non_linear_systems_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\non_linear_systems" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\linear_systems" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="linear_systems" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="linear_systems_analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algoritmosSegundoparcial" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\linear_systems.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\linear_systems\linear_systems_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
