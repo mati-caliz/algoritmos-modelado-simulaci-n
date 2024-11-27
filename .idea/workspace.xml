@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_bifurcations.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems/linear_bifurcations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_systems/linear_systems_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/non_linear_bifurcations.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems/non_linear_bifurcations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/non_linear_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/non_linear_systems/non_linear_systems_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
