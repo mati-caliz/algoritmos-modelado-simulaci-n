@@ -32,32 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bifurcaciones.executor": "Run",
-    "Python.ecuaciones_cuadráticas.executor": "Run",
-    "Python.ecuaciones_lineales.executor": "Run",
-    "Python.ecuaciones_lineales_bifurcaciones.executor": "Run",
-    "Python.linear_bifurcations.executor": "Run",
-    "Python.linear_systems_analysis.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.non_linear_bifurcations.executor": "Run",
-    "Python.non_linear_systems_analysis.executor": "Run",
-    "Python.systems_analysis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feat/mejoras-varias",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/matiascaliz/Escritorio/Modelado y Simulación/dynamic-systems-modelado-simulacion-main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bifurcaciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ecuaciones_cuadráticas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ecuaciones_lineales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ecuaciones_lineales_bifurcaciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear_bifurcations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear_systems_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.non_linear_bifurcations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.non_linear_systems_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.systems_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/mejoras-varias&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/matiascaliz/Escritorio/Modelado y Simulación/dynamic-systems-modelado-simulacion-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion" />
@@ -126,7 +126,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$bifurcaciones.coverage" NAME="bifurcaciones Coverage Results" MODIFIED="1732726274113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732758013965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732759490919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$non_linear_systems_analysis.coverage" NAME="non_linear_systems_analysis Coverage Results" MODIFIED="1732752221813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/non_linear_systems" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732725731301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -134,7 +134,7 @@
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$non_linear_bifurcations.coverage" NAME="non_linear_bifurcations Coverage Results" MODIFIED="1732727817466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732724458219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales_bifurcaciones.coverage" NAME="ecuaciones_lineales_bifurcaciones Coverage Results" MODIFIED="1732727364640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$systems_analysis.coverage" NAME="systems_analysis Coverage Results" MODIFIED="1732758756826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$systems_analysis.coverage" NAME="systems_analysis Coverage Results" MODIFIED="1732760920554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732751670556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
