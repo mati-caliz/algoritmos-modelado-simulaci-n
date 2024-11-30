@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="merge" />
+    <list default="true" id="42dbcfd9-78a6-466e-b944-596e7b7407d2" name="Changes" comment="merge">
+      <change beforePath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algoritmosSegundoparcial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/differential_equations/euler.py" beforeDir="false" afterPath="$PROJECT_DIR$/differential_equations/euler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/differential_equations/fixed_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/differential_equations/fixed_point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/differential_equations/improved_euler.py" beforeDir="false" afterPath="$PROJECT_DIR$/differential_equations/improved_euler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/differential_equations/lagrange_interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/differential_equations/lagrange_interpolation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/differential_equations/runge_kutta.py" beforeDir="false" afterPath="$PROJECT_DIR$/differential_equations/runge_kutta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_systems/bifurcation.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_systems/bifurcation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_systems/dynamic_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_systems/dynamic_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_systems/equilibria.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_systems/equilibria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_systems/main_dynamic_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_systems/main_dynamic_systems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_systems/plotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_systems/plotting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_methods/montecarlo_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/integration_methods/montecarlo_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_methods/rectangle_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/integration_methods/rectangle_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_methods/simpson_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/integration_methods/simpson_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration_methods/trapezoid_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/integration_methods/trapezoid_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root_finding/newton_raphson.py" beforeDir="false" afterPath="$PROJECT_DIR$/root_finding/newton_raphson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root_finding/secant_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/root_finding/secant_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root_finding/steffensen_aitken.py" beforeDir="false" afterPath="$PROJECT_DIR$/root_finding/steffensen_aitken.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +41,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mati-caliz/algoritmos-modelado-simulacion.git",
-    "accountId": "7e292fd0-6d02-4aa9-b3bd-38b2258d0cf4"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mati-caliz&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mati-caliz/algoritmos-modelado-simulacion.git&quot;,
+    &quot;accountId&quot;: &quot;7e292fd0-6d02-4aa9-b3bd-38b2258d0cf4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,31 +65,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bifurcaciones.executor": "Run",
+    "Python.dynamic_system.executor": "Run",
     "Python.ecuaciones_cuadráticas.executor": "Run",
     "Python.ecuaciones_lineales.executor": "Run",
     "Python.ecuaciones_lineales_bifurcaciones.executor": "Run",
+    "Python.euler.executor": "Run",
+    "Python.fixed_point.executor": "Run",
+    "Python.improved_euler.executor": "Run",
+    "Python.lagrange_interpolation.executor": "Run",
     "Python.linear_systems_analysis.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main_dynamic_systems.executor": "Run",
+    "Python.montecarlo_method.executor": "Run",
+    "Python.newton_raphson.executor": "Run",
     "Python.non_linear_bifurcations.executor": "Run",
+    "Python.rectangle_method.executor": "Run",
+    "Python.runge_kutta.executor": "Run",
+    "Python.secant_method.executor": "Run",
+    "Python.simpson_method.executor": "Run",
+    "Python.steffensen_aitken.executor": "Run",
     "Python.systems_analysis.executor": "Run",
+    "Python.trapezoid_method.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/refactor",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/matia/OneDrive/Desktop/Modelado y Simulación/algoritmos-modelado-simulacion",
+    "last_opened_file_path": "C:/Users/matia/OneDrive/Desktop/Proyecto Final de Ingeniería Informática/proyecto-final-ingenieria/backend",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\non_linear_systems" />
-      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\linear_systems" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\differential_equations" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\dynamic_systems" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\root_finding" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\integration_methods" />
+      <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\systems_analysis" />
     </key>
   </component>
   <component name="RunManager">
@@ -115,6 +161,11 @@
       <workItem from="1732489116914" duration="2000" />
       <workItem from="1732714986913" duration="2471000" />
       <workItem from="1732719502213" duration="2339000" />
+      <workItem from="1732825443726" duration="2645000" />
+      <workItem from="1732879699344" duration="26000" />
+      <workItem from="1732912750056" duration="41000" />
+      <workItem from="1732912797096" duration="203000" />
+      <workItem from="1732913988914" duration="15000" />
     </task>
     <servers />
   </component>
@@ -126,19 +177,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$bifurcaciones.coverage" NAME="bifurcaciones Coverage Results" MODIFIED="1732726274113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732812918760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732725731301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$non_linear_systems_analysis.coverage" NAME="non_linear_systems_analysis Coverage Results" MODIFIED="1732752221813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/non_linear_systems" />
-    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_bifurcations.coverage" NAME="linear_bifurcations Coverage Results" MODIFIED="1732742654231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$non_linear_bifurcations.coverage" NAME="non_linear_bifurcations Coverage Results" MODIFIED="1732727817466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732396675822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$runge_kutta.coverage" NAME="runge_kutta Coverage Results" MODIFIED="1732965439331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differential_equations" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$test.coverage" NAME="test Coverage Results" MODIFIED="1732813657961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$rectangle_method.coverage" NAME="rectangle_method Coverage Results" MODIFIED="1732961705536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/integration_methods" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732724458219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$main.coverage" NAME="main Coverage Results" MODIFIED="1732819826363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systems_analysis" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1732826817826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
+    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$bifurcaciones.coverage" NAME="bifurcaciones Coverage Results" MODIFIED="1732726274113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$main_dynamic_systems.coverage" NAME="main_dynamic_systems Coverage Results" MODIFIED="1732968365600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$simpson_method.coverage" NAME="simpson_method Coverage Results" MODIFIED="1732961876522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/integration_methods" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$dynamic_system.coverage" NAME="dynamic_system Coverage Results" MODIFIED="1732967989309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_bifurcations.coverage" NAME="linear_bifurcations Coverage Results" MODIFIED="1732742654231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_cuadráticas.coverage" NAME="ecuaciones_cuadráticas Coverage Results" MODIFIED="1732725731301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$montecarlo_method.coverage" NAME="montecarlo_method Coverage Results" MODIFIED="1732963441051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/integration_methods" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732751670556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$steffensen_aitken.coverage" NAME="steffensen_aitken Coverage Results" MODIFIED="1732961259123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$dynamic_system.coverage" NAME="dynamic_system Coverage Results" MODIFIED="1732818970914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/systems_analysis" />
+    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1732961415345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$fixed_point.coverage" NAME="fixed_point Coverage Results" MODIFIED="1732964372065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differential_equations" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$trapezoid_method.coverage" NAME="trapezoid_method Coverage Results" MODIFIED="1732962391476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/integration_methods" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$euler.coverage" NAME="euler Coverage Results" MODIFIED="1732964652487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differential_equations" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$improved_euler.coverage" NAME="improved_euler Coverage Results" MODIFIED="1732965096764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differential_equations" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$newton_raphson.coverage" NAME="newton_raphson Coverage Results" MODIFIED="1732961349110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$non_linear_bifurcations.coverage" NAME="non_linear_bifurcations Coverage Results" MODIFIED="1732727817466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732812918760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$ecuaciones_lineales_bifurcaciones.coverage" NAME="ecuaciones_lineales_bifurcaciones Coverage Results" MODIFIED="1732727364640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$systems_analysis.coverage" NAME="systems_analysis Coverage Results" MODIFIED="1732817914031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$ecuaciones_lineales.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1732395970982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$test.coverage" NAME="test Coverage Results" MODIFIED="1732813657961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_systems_analysis.coverage" NAME="linear_systems_analysis Coverage Results" MODIFIED="1732751670556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$lagrange_interpolation.coverage" NAME="lagrange_interpolation Coverage Results" MODIFIED="1732965258322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/differential_equations" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$main_dynamic_systems.coverage" NAME="main_dynamic_systems Coverage Results" MODIFIED="1732821918407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$main.coverage" NAME="main Coverage Results" MODIFIED="1732960351519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
+    <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$newton_raphson.coverage" NAME="newton_raphson Coverage Results" MODIFIED="1732827187223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
   </component>
 </project>
