@@ -1,4 +1,3 @@
-# dynamic_system.py
 import sympy as sp
 import numpy as np
 from sympy import symbols, Matrix, lambdify, solve, expand, pprint, nsimplify, exp
@@ -7,7 +6,6 @@ from bifurcation import generate_bifurcation_diagram
 from utils import ensure_sympy_expression, classify_equilibrium, format_eigenvalue
 from jacobian import compute_jacobian_symbolic
 from equilibria import find_equilibria_symbolic, analyze_equilibria
-import matplotlib.pyplot as plt  # Asegúrate de importar matplotlib
 
 
 class DynamicSystem:
@@ -39,36 +37,19 @@ class DynamicSystem:
             print("No se encontraron puntos de equilibrio.")
         self.compute_general_solution()
         self.display_general_solution()
-        print("\nNulclinas del sistema:")
+        print("\nNuclinas del sistema:")
         display_nullclines(self.nullclines)
         self.lambdify_functions()
-
         if self.parameters:
-            num_params = len(self.parameters)
-            # Determinar el número de filas y columnas para los subplots
-            ncols = 2
-            nrows = (num_params + 1) // ncols
-            fig, axes = plt.subplots(nrows, ncols, figsize=(6 * ncols, 5 * nrows))
-            axes = axes.flatten() if num_params > 1 else [axes]
-
-            for idx, param in enumerate(self.parameters):
-                ax = axes[idx]
-                print(f"\nGenerando diagrama de bifurcación para el parámetro: {param}")
-                generate_bifurcation_diagram(
-                    self.f_sym,
-                    self.g_sym,
-                    param,
-                    param_range=(-2, 2),
-                    ax=ax,
-                    variables=self.variables
-                )
-
-            # Ocultar subplots vacíos si los hay
-            for j in range(idx + 1, len(axes)):
-                fig.delaxes(axes[j])
-
-            plt.tight_layout()
-            plt.show()
+            # Convertir a lista si no lo es
+            parameters = list(self.parameters)
+            # Define los rangos para cada parámetro. Esto puede adaptarse según tus necesidades.
+            param_ranges = {}
+            for param in parameters:
+                # Puedes definir rangos diferentes para cada parámetro
+                # Aquí se usa un rango por defecto de (-2, 2)
+                param_ranges[param] = (-2, 2)
+            generate_bifurcation_diagram(self.f_sym, self.g_sym, parameters, param_ranges)
         else:
             self.plot_phase_portrait()
 
@@ -85,18 +66,18 @@ class DynamicSystem:
         nullclines = []
         f_nullcline = solve(self.f_sym, self.y)
         if f_nullcline:
-            nullclines.append({'variable': self.y, 'solutions': f_nullcline, 'label': "Nulclina x'"})
+            nullclines.append({'variable': self.y, 'solutions': f_nullcline, 'label': "Nuclina x'"})
         else:
             f_nullcline = solve(self.f_sym, self.x)
             if f_nullcline:
-                nullclines.append({'variable': self.x, 'solutions': f_nullcline, 'label': "Nulclina x'"})
+                nullclines.append({'variable': self.x, 'solutions': f_nullcline, 'label': "Nuclina x'"})
         g_nullcline = solve(self.g_sym, self.y)
         if g_nullcline:
-            nullclines.append({'variable': self.y, 'solutions': g_nullcline, 'label': "Nulclina y'"})
+            nullclines.append({'variable': self.y, 'solutions': g_nullcline, 'label': "Nuclina y'"})
         else:
             g_nullcline = solve(self.g_sym, self.x)
             if g_nullcline:
-                nullclines.append({'variable': self.x, 'solutions': g_nullcline, 'label': "Nulclina y'"})
+                nullclines.append({'variable': self.x, 'solutions': g_nullcline, 'label': "Nuclina y'"})
         self.nullclines = nullclines
 
     def analyze_equilibria(self):

@@ -46,47 +46,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bifurcaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dynamic_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ecuaciones_cuadráticas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ecuaciones_lineales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ecuaciones_lineales_bifurcaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.euler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fixed_point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.improved_euler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lagrange_interpolation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear_systems_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_dynamic_systems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.montecarlo_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.newton_raphson.executor&quot;: &quot;Run&quot;,
-    &quot;Python.non_linear_bifurcations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plotting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rectangle_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.runge_kutta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secant_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simpson_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.steffensen_aitken.executor&quot;: &quot;Run&quot;,
-    &quot;Python.systems_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trapezoid_method.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matia/OneDrive/Desktop/Proyecto Final de Ingeniería Informática/proyecto-final-ingenieria/backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bifurcaciones.executor": "Run",
+    "Python.dynamic_system.executor": "Run",
+    "Python.ecuaciones_cuadráticas.executor": "Run",
+    "Python.ecuaciones_lineales.executor": "Run",
+    "Python.ecuaciones_lineales_bifurcaciones.executor": "Run",
+    "Python.euler.executor": "Run",
+    "Python.fixed_point.executor": "Run",
+    "Python.improved_euler.executor": "Run",
+    "Python.lagrange_interpolation.executor": "Run",
+    "Python.linear_systems_analysis.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_dynamic_systems.executor": "Run",
+    "Python.montecarlo_method.executor": "Run",
+    "Python.newton_raphson.executor": "Run",
+    "Python.non_linear_bifurcations.executor": "Run",
+    "Python.plotting.executor": "Run",
+    "Python.rectangle_method.executor": "Run",
+    "Python.runge_kutta.executor": "Run",
+    "Python.secant_method.executor": "Run",
+    "Python.simpson_method.executor": "Run",
+    "Python.steffensen_aitken.executor": "Run",
+    "Python.systems_analysis.executor": "Run",
+    "Python.trapezoid_method.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feat/mejoras-plotting-params",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/matia/OneDrive/Desktop/Proyecto Final de Ingeniería Informática/proyecto-final-ingenieria/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matia\OneDrive\Desktop\Modelado y Simulación\algoritmos-modelado-simulacion\differential_equations" />
@@ -182,7 +182,7 @@
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1732826817826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/root_finding" />
     <SUITE FILE_PATH="coverage/algoritmosSegundoparcial$main.coverage" NAME="ecuaciones_lineales Coverage Results" MODIFIED="1731537393114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algoritmos_modelado_simulacion$bifurcaciones.coverage" NAME="bifurcaciones Coverage Results" MODIFIED="1732726274113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$main_dynamic_systems.coverage" NAME="main_dynamic_systems Coverage Results" MODIFIED="1733179949315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
+    <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$main_dynamic_systems.coverage" NAME="main_dynamic_systems Coverage Results" MODIFIED="1733181305407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$simpson_method.coverage" NAME="simpson_method Coverage Results" MODIFIED="1732961876522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/integration_methods" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion$dynamic_system.coverage" NAME="dynamic_system Coverage Results" MODIFIED="1732967989309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_systems" />
     <SUITE FILE_PATH="coverage/dynamic_systems_modelado_simulacion_main$linear_bifurcations.coverage" NAME="linear_bifurcations Coverage Results" MODIFIED="1732742654231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linear_systems" />
